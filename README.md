@@ -17,4 +17,3 @@ React Native                   3                     ⣿⣿⣿⣿⣿⣿⣿⣿⣿
 Android (Java/Kotlin)          6                     ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀       98%
 ```
 
-📊 Data from [@wakatime/neangansarang](https://wakatime.com/@neangansarang)
