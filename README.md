@@ -1,19 +1,25 @@
-<section align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=neangansarang&label=Profile%20views&color=0e75b6&style=flat" alt="neangansarang" /> 
-  <img src="https://wakatime.com/badge/user/0f648038-eaa3-4194-a142-a1af00455f8d.svg" alt="Total time coded since May 21 2026" />
-</section><br>
-
-```python
-Hi, Welcome in My Profile GitHub
+```swift
+public struct AboutMe {
+    let name = "Asep"
+    var pronouns = ["he","him"]
+    
+    let profession = "System Analyst @ Goodeva Technology"
+    
+    var preferredTechStack = ["laravel", "android sdk", "react native", "xcode", "postman"]
+    var hasUsed = ["react", "javascript", "kotlin"]
+}
 ```
 
-```txt
-Skills                         Total Project         Abilities                           Percent
-TypeScript                     0                     ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀       45%
-PHP                            3                     ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀       78%
-React Javascript               2                     ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀       67%
-Laravel                        5                     ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀       89%
-React Native                   3                     ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀       50%
-Android (Java/Kotlin)          6                     ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀       98%
-```
+I solve problems using the tools available to me. I generally like using Swift and SwiftUI but not afraid to try something new.
 
+## Latest [YouTube](https://www.youtube.com/channel/UC6na4Lq0ozPBjHD1X42szEQ) Videos
+
+- [How I start every morning as a work from home employee #coffee #iosengineer #wfh #workfromhome #vlog](https://www.youtube.com/watch?v=21No0Ze0fo4)
+- [Items on my desk that aren't tech #desksetup #workfromhome #deskinspiration](https://www.youtube.com/watch?v=UEoq6F4Lz60)
+- [Saturday is errand day. #vlog #dayinthelife](https://www.youtube.com/watch?v=g3pETJgMTmQ)
+
+## Latest [Blog](https://cctplus.dev) Posts
+
+- [An Introduction to Grids in SwiftUI](https://cctplus.dev/an-introduction-to-grids-in-swiftui/)
+- [Why Have a Developer Diary?](https://cctplus.dev/get-started-with-a-developer-diary/)
+- [What is App Architecture](https://cctplus.dev/what-is-app-architecture/)
